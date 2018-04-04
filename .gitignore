@@ -1,0 +1,7 @@
+projectForExam/AppDelegate.swift
+projectForExam/GoogLeNetPlaces.mlmodel
+projectForExam/Info.plist
+projectForExam/Resnet50.mlmodel
+projectForExam/SqueezeNet.mlmodel
+.DS_Store
+projectForExam/.DS_Store
